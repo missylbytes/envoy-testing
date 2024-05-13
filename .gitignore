@@ -1,0 +1,8 @@
+# Ignore all
+go.mod
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
